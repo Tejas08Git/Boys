@@ -9,5 +9,6 @@ System.out.println("new branch");
 public void Member1
 {
     System.out.println("Hello Member");
+    System.out.println("Hello Member1 add");
 }
 }
