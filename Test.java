@@ -12,4 +12,8 @@ public void Member1
     System.out.println("Hello Member1 add");
 System.out.println("gajanan");
 }
+public void m1(){
+  System.out.println("vasanti");
+  
+}
 }
