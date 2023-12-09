@@ -7,4 +7,9 @@ System.out.println("hi this git hub");
 System.out.println("new branch");
 
 }
+
+public void methodP()
+{
+System.out.println("Hello this is pritee");
+}
 }
